@@ -1,4 +1,4 @@
-The pattern is depend on the input.
+The maze pattern is depend on the input.
 
 Example 1:<br>
 S = 5<br>
