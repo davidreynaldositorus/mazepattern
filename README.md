@@ -1,4 +1,8 @@
-The maze pattern is depend on the input.
+The maze pattern is depend on the input (S).<br>
+The input is a positive integer<br>
+The output is pattern of the maze with size S x S<br>
+The wall is create using "@" and the way is using " "<br>
+
 
 <b>Example 1:</b><br>
 S = 5<br>
