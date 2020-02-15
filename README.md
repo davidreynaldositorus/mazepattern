@@ -1,6 +1,6 @@
 The maze pattern is depend on the input.
 
-Example 1:<br>
+<b>Example 1:</b><br>
 S = 5<br>
 @ @@@ <br>
 @&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; @<br> 
@@ -8,7 +8,7 @@ S = 5<br>
 @&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;   @<br>
 @@@ @<br>
 
-Example 2:<br>
+<b>Example 2:</b><br>
 S = 7<br>
 @ @@@@@<br>
 @&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;   @<br>
