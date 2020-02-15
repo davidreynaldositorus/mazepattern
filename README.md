@@ -11,9 +11,9 @@ S = 5<br>
 Example 2:<br>
 S = 7<br>
 @ @@@@@<br>
-@&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;     @<br>
+@&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;    @<br>
 @@@@@ @<br>
-@&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;     @<br>
+@&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;    @<br>
 @ @@@@@<br>
-@&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;     @<br>
+@&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp;&nbsp; &nbsp;   @<br>
 @@@@@ @<br>
