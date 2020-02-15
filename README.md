@@ -1,3 +1,4 @@
+## Maze Pattern Generator
 The maze pattern is depend on the input (S).<br>
 The input is a positive integer<br>
 The output is pattern of the maze with size S x S<br>
