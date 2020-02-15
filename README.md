@@ -3,7 +3,7 @@ The pattern is depend on the input.
 Example 1:<br>
 S = 5<br>
 @ @@@ <br>
-@&nbsp; &nbsp;&nbsp;&nbsp;  @<br> 
+@&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; @<br> 
 @@@ @<br>
 @   @<br>
 @@@ @<br>
